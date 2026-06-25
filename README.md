@@ -34,3 +34,6 @@ Vrinda Store Sales Dataset
 ## Dashboard Preview
 
 Dashboard screenshots will be added here.
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
